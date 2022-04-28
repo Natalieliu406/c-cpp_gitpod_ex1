@@ -22,10 +22,7 @@ int main()
     cout << "aws x * y = " << mul(x,y) << endl;
     cout << "esd x / y = " << divi(x,y) << endl;
     cout<<"Hello World" << endl;
-    
-return 0;
-
-    
+  
 return 0;
 }
 
